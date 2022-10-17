@@ -1,1 +1,4 @@
-qwerty
+import random
+printf("This is the programme")
+coin = ["heads","tails"]
+print(coin[random.randint(0,2)])
